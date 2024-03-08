@@ -1,18 +1,47 @@
-# Hi there 👋, Isaac Román here. 
+# Bienvenido a mi perfil de GitHub 👋
+¡Hola! Soy Isaac Román, Ingeniero de sistemas. Mis habilidades y experiencia en el campo de la programación incluyen:
 
+Habilidades y Experiencia
+Lenguajes de Programación
+PHP
+Java
+JavaScript (JS)
+Python
+Desarrollo Fullstack
+Como programador fullstack, tengo experiencia tanto en el frontend como en el backend, utilizando tecnologías como:
 
+Frontend:
 
+React
+Bootstrap
+Tailwind CSS
+Backend:
 
+Node.js
+Frameworks y Herramientas
+Experiencia en el uso de frameworks de estilos como:
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="samuelisaacr@gmail.com">samuelisaacr@gmail.com</a>
+Tailwind CSS
+Bootstrap
+Sistemas de Control de Versiones:
+
+Git (con experiencia en GitHub)
+Bases de Datos
+Experiencia en el manejo de bases de datos relacionales, incluyendo:
+SQL
+MySQL
+Sobre mí
+Actualmente estoy interesado en el diseño web, desarrollo de Android y marketing digital. 🌱 Actualmente estoy aprendiendo Java y React.js.
+
+Colaboración
+👯 Estoy emocionado por colaborar en proyectos de código abierto. Si tienes alguna idea interesante o proyecto en el que pueda contribuir, ¡házmelo saber!
+
+Contacto
+📫 Puedes contactarme en samuelisaacr@gmail.com
+
+¡Estoy disponible para ayudar en cualquier cosa que esté a mi alcance! 😊
+
+Recuerda personalizar la estructura según tus preferencias y agregar enlaces a tus perfiles sociales, proyectos destacados u otra información relevante. ¡Espero que esto sea lo que buscas!
 
 __Check out my GitHub repository:__
 
