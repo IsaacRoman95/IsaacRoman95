@@ -17,8 +17,9 @@ Tailwind CSS
 
 __Backend:__
 Node.js
-Frameworks y Herramientas
+Laravel
 
+__Frameworks y Herramientas__
 Experiencia en el uso de frameworks de estilos como:
 Tailwind CSS
 Bootstrap
