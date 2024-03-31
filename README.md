@@ -1,44 +1,44 @@
 # Bienvenido a mi perfil de GitHub 👋
 ¡Hola! Soy Isaac Román, Ingeniero de sistemas. Mis habilidades y experiencia en el campo de la programación incluyen:
-
+<br>
 Habilidades y Experiencia
-__Lenguajes de Programación__
+__Lenguajes de Programación__ <br>
 PHP
 Java
 JavaScript (JS)
 Python
-
-__Desarrollo Fullstack__
+<br>
+__Desarrollo Fullstack__ <br>
 Como programador fullstack, tengo experiencia tanto en el frontend como en el backend, utilizando tecnologías como:
-
-__Frontend:__
+<br>
+__Frontend:__ <br>
 React
 Bootstrap
 Tailwind CSS
-
-__Backend:__
+<br>
+__Backend:__ <br>
 NodeJS
 Laravel
-
+<br>
 Sistemas de Control de Versiones:
 Git (con experiencia en GitHub y GitLab)
-
-__Bases de Datos__
+<br>
+__Bases de Datos__ <br>
 Experiencia en el manejo de bases de datos relacionales, incluyendo:
 SQL
 MySQL
 PostgreSQL
-
-__Colaboración__
+<br>
+__Colaboración__ <br>
 Estoy emocionado por colaborar en proyectos que sean necesarios. 
 Si tienes alguna idea interesante o proyecto en el que pueda contribuir, ¡házmelo saber!
-
+<br>
 __Contacto__
 📫 Puedes contactarme en samuelisaacr@gmail.com
-
+<br>
 ¡Estoy disponible para ayudar en cualquier cosa que esté a mi alcance! 😊
-
-__Check out my GitHub repository:__
+<br>
+__Check out my GitHub repository:__ <br>
 
 <!-----
 <div>
