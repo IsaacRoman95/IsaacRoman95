@@ -7,7 +7,8 @@ PHP
 Java
 JavaScript (JS)
 Python
-Desarrollo Fullstack
+
+__Desarrollo Fullstack__
 Como programador fullstack, tengo experiencia tanto en el frontend como en el backend, utilizando tecnologías como:
 
 __Frontend:__
@@ -16,24 +17,21 @@ Bootstrap
 Tailwind CSS
 
 __Backend:__
-Node.js
+NodeJS
 Laravel
 
-__Frameworks y Herramientas__
-Experiencia en el uso de frameworks de estilos como:
-Tailwind CSS
-Bootstrap
-
 Sistemas de Control de Versiones:
-Git (con experiencia en GitHub)
+Git (con experiencia en GitHub y GitLab)
 
 __Bases de Datos__
 Experiencia en el manejo de bases de datos relacionales, incluyendo:
 SQL
 MySQL
+PostgreSQL
 
 __Colaboración__
-👯 Estoy emocionado por colaborar en proyectos que sean necesarios. Si tienes alguna idea interesante o proyecto en el que pueda contribuir, ¡házmelo saber!
+Estoy emocionado por colaborar en proyectos que sean necesarios. 
+Si tienes alguna idea interesante o proyecto en el que pueda contribuir, ¡házmelo saber!
 
 __Contacto__
 📫 Puedes contactarme en samuelisaacr@gmail.com
