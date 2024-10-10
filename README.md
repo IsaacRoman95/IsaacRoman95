@@ -3,31 +3,23 @@
 <br><br>
 Habilidades y Experiencia
 __Lenguajes de Programación__ <br>
-PHP
-Java
-JavaScript (JS)
-Python
+PHP, Java, JavaScript (JS), Python
 <br><br>
 __Desarrollo Fullstack__ <br>
 Como programador fullstack, tengo experiencia tanto en el frontend como en el backend, utilizando tecnologías como:
 <br><br>
 __Frontend:__ <br>
-React
-Bootstrap
-Tailwind CSS
+Vuejs, React, Bootstrap, Tailwind CSS
 <br><br>
 __Backend:__ <br>
-NodeJS
-Laravel
+NodeJS, Laravel
 <br><br>
 Sistemas de Control de Versiones:
 Git (con experiencia en GitHub y GitLab)
 <br><br>
 __Bases de Datos__ <br>
 Experiencia en el manejo de bases de datos relacionales, incluyendo:<br>
-SQL
-MySQL
-PostgreSQL
+SQL, MySQL, PostgreSQL
 <br><br>
 __Colaboración__ <br>
 Estoy emocionado por colaborar en proyectos que sean necesarios. 
