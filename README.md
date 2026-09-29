@@ -1,47 +1,52 @@
-# Bienvenido a mi perfil de GitHub 👋
-¡Hola! Soy Isaac Román, Ingeniero de sistemas. Mis habilidades y experiencia en el campo de la programación incluyen:
-<br><br>
-Habilidades y Experiencia
-__Lenguajes de Programación__ <br>
-PHP, Java, JavaScript (JS), Python
-<br><br>
-__Desarrollo Fullstack__ <br>
-Como programador fullstack, tengo experiencia tanto en el frontend como en el backend, utilizando tecnologías como:
-<br><br>
-__Frontend:__ <br>
-Vuejs, React, Bootstrap, Tailwind CSS
-<br><br>
-__Backend:__ <br>
-NodeJS, Laravel
-<br><br>
-Sistemas de Control de Versiones:
-Git (con experiencia en GitHub y GitLab)
-<br><br>
-__Bases de Datos__ <br>
-Experiencia en el manejo de bases de datos relacionales, incluyendo:<br>
-SQL, MySQL, PostgreSQL
-<br><br>
-__Colaboración__ <br>
-Estoy emocionado por colaborar en proyectos que sean necesarios. 
-Si tienes alguna idea interesante o proyecto en el que pueda contribuir, ¡házmelo saber!
-<br><br>
-__Contacto__
-📫 Puedes contactarme en samuelisaacr@gmail.com
-<br><br>
-¡Estoy disponible para ayudar en cualquier cosa que esté a mi alcance! 😊
-<br><br>
-__Check out my GitHub repository:__ <br>
+<p align="center">
+  <img src="./banner.svg" alt="Samuel Isaac Román — Desarrollador Full-Stack" width="100%"/>
+</p>
 
-<!-----
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuelisaacrv"><img src="https://img.shields.io/badge/LinkedIn-samuelisaacrv-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:samuelisaacr@gmail.com"><img src="https://img.shields.io/badge/Email-samuelisaacr%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Ubicación-Perú-334155?style=flat-square" alt="Ubicación: Perú"/>
+  <img src="https://img.shields.io/badge/Estado-Abierto%20a%20oportunidades-16A34A?style=flat-square" alt="Abierto a oportunidades"/>
+</p>
 
+## Sobre mí
+
+Ingeniero de Sistemas y desarrollador full-stack. Diseño y construyo productos completos: APIs, paneles administrativos, aplicaciones web y móviles para usuarios finales, e integraciones con modelos de machine learning.
+
+Me enfoco en escribir código mantenible y en entregar software que resuelva problemas reales de negocio, desde el modelado de datos hasta la experiencia del usuario.
+
+## Qué aporto
+
+- **Backend:** APIs REST con Laravel y Node.js, y modelado de bases de datos relacionales en MySQL y PostgreSQL.
+- **Frontend:** interfaces con React, Vue y Astro, maquetadas con Tailwind CSS.
+- **Móvil:** aplicaciones multiplataforma con TypeScript.
+- **Machine learning:** modelos de redes neuronales en Python aplicados a la agricultura.
+
+## Tecnologías
+
+| Área | Herramientas |
+|---|---|
+| Lenguajes | <img src="https://skillicons.dev/icons?i=ts,js,php,python,java&theme=dark" height="36" alt="TypeScript, JavaScript, PHP, Python, Java"/> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind,bootstrap&theme=dark" height="36" alt="React, Vue, Astro, Tailwind, Bootstrap"/> |
+| Backend y datos | <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgres&theme=dark" height="36" alt="Node.js, Laravel, MySQL, PostgreSQL"/> |
+| Herramientas | <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" height="36" alt="Git, GitHub, GitLab, Docker"/> |
+
+## Proyectos destacados
+
+### HiDriver — Plataforma de envíos
+
+Ecosistema de delivery formado por un backend central, una app para clientes, una app para repartidores y un sitio web.
+
+`PHP` `TypeScript` `Astro`
+
+### AgroScaner — Detección de plagas con redes neuronales
+
+Sistema para la detección y control de plagas en cultivos de arroz en Bagua, Amazonas. Incluye el modelo de red neuronal y la aplicación que lo usa.
+
+`Python` `Jupyter` `TypeScript` · [Ver el modelo](https://github.com/IsaacRoman95/neuronal-network-agroscaner-app)
+
+> La mayoría de mis proyectos son privados por acuerdos con clientes. Puedo mostrar demos o recorrer el código en una entrevista.
+
+## Contacto
+
+Si buscas un desarrollador full-stack para tu equipo o proyecto, escríbeme a **[samuelisaacr@gmail.com](mailto:samuelisaacr@gmail.com)** o por [LinkedIn](https://www.linkedin.com/in/samuelisaacrv).
